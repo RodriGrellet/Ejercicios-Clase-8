@@ -89,6 +89,7 @@ a {
 
 .pie{
     display:flex;
+    position: absolute;
     color: white;
     justify-content: center;
     height: 200px;
